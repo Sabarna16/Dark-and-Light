@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+h1{
+    color: brown;
+}
+button{
+    margin: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: rgba(207, 25, 153, 0.434);
+    color: white;
+}
+button:hover{
+    cursor:pointer;
+    background-color: white;
+    color:black;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
